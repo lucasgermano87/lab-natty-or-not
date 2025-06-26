@@ -1,51 +1,40 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# 🎬 Eu sou a Lenda 3 (será?) 😉
 
-## 🚀 Introdução
+> Um experimento visual com inteligência artificial misturado a um certo orgulho colorado 💪🐴
 
-> Woooow! Look at this 👀
+---
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## 📒 Descrição  
+🧠 A ideia do projeto era testar o modelo **VEO3** para ver de perto o poder de fogo dessa IA na criação de vídeos realistas a partir de prompts criativos (e regionais!).
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+---
 
-### Objetivos
+## 🤖 Tecnologias Utilizadas  
+- 🧭 **Copilot** – ideias 💡, criação ✍️ e edição do prompt.  
+- 🎥 **VEO3** – geração do vídeo com IA generativa.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+---
 
-### Template
+## 🧐 Processo de Criação  
+🌍 Imaginei um **cenário pós-apocalíptico no RS**, com um **gaúcho solitário montado a cavalo**, seguido de seu **pastor alemão parceiro fiel 🐕**.  
+🎞️ A referência direta? O clássico *I Am Legend* — só que com **camiseta do Inter** e um certo charme do sul 🇧🇷🔥  
+☕ Não tinha mate, mas tinha atitude.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+---
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 🚀 Resultados  
+🎬 Vídeo de **5 segundos**, com tentativa de inserir legendas e títulos dramáticos.  
+👎 Infelizmente, devido às limitações da versão gratuita do VEO3, a **qualidade ficou abaixo do esperado**. Mas o experimento valeu a pena.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+📎 [👉 Assista ao vídeo no Google Drive](https://drive.google.com/file/d/1Vl1SIg1NGAfyLNnQh4P_UKDY1jHXV4Nt/view?usp=sharing)
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+---
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+## 💭 Reflexão  
+✨ É incrível ver como **um modelo (Copilot) pode impulsionar outro (VEO3)**.  
+🔧 A criação do prompt foi super fluida e divertida, mas **esbarramos nas barreiras da IA gratuita**.  
+🎯 Mesmo assim, fica o aprendizado: **quanto mais criativo e específico o prompt, melhor o resultado — mesmo em ambientes limitados**.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+---
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+🎞️ *Spoiler: o gaúcho sobreviveu ao apocalipse. Mas o galo nem passou do gauchão.* 😅
